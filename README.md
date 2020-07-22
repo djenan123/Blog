@@ -1,4 +1,4 @@
-Blog project :: NodeJS
+Blog project :: NodeJS | MongoDB
 
 1. After cloning the project type "npm install" (without quotes) into the terminal to download all dependecies.
 2. After that type "nodemon app" (without quotes) into the terminal to start the application.
